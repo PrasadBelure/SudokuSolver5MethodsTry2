@@ -2,7 +2,7 @@
 
 
 ## Sudoku Solver & Generator
-This project is a Sudoku Solver and Generator built using Java Swing for the GUI. It supports multiple algorithms, including Backtracking, Constraint Programming, MRV (Minimum Remaining Values heuristic), Simulated Annealing, and Genetic Algorithm for solving puzzles. Users can also generate new puzzles at different difficulty levels and request hints.
+This project is a Sudoku Solver and Generator built using Java Swing for the GUI. It supports multiple algorithms, including Backtracking, Constraint Programming, MRV (Minimum Remaining Values heuristic), Simulated Annealing, and Genetic Algorithm for solving puzzles. Users can also generate new puzzles at different difficulty levels and request hints. Java version 20 used to build . 
 
 ## Features
 - Solve Sudoku using multiple algorithms:
@@ -48,6 +48,19 @@ This project is a Sudoku Solver and Generator built using Java Swing for the GUI
 ## Requirements
 - Java Development Kit (JDK) 8 or higher
 - Works on Windows, macOS, and Linux
+
+---
+# Project Glimse
+## The GUI for Sudoku 
+![image](https://github.com/user-attachments/assets/c963249c-1934-4b93-9587-e956edd53423)
+## Generating A Sudoku Grid to Solve ( 3 Levels ) 
+![image](https://github.com/user-attachments/assets/5ae584d4-7863-4960-8815-7147f18f782d)
+## A Sudoku Grid ( Hard Level ) 
+![image](https://github.com/user-attachments/assets/fc2f4d6d-2c1d-4b47-bbec-1d25035e5efd)
+## Solving a Grid ( 5 Methods ) 
+![image](https://github.com/user-attachments/assets/c8683511-e44d-4535-ae9f-a1ee446a48e4)
+## Solved Grid 
+![image](https://github.com/user-attachments/assets/2b47d9e1-208d-4a50-a27f-891dc361a8d9)
 
 ---
 
